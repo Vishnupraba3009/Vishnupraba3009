@@ -18,8 +18,8 @@ Passionate Software Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnupraba3009&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VishnuPraba?theme=dark&font=Marcellus)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnupraba3009&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
